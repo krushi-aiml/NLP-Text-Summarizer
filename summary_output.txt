@@ -1,0 +1,15 @@
+
+     📏 Summary Length Selected: Medium
+📌 Original Words: 390
+📌 Summary Words: 57
+📌 Compression: 14.62%
+
+---
+
+🔹 Extractive Summary:
+Think of it like Google Docs, but for coding, where multiple users can collaborate simultaneously on the same notebook Zapier +1 . Free Hardware Acceleration: Use CPUs, GPUs, or TPUs for computationally intensive tasks like training deep learning models 2 . 6 Sources Benefits of Using Google Colab Accessibility: Run Python code without worrying about local environment setup or system limitations 2 . 
+
+---
+
+🔸 Abstractive Summary:
+Google Colab is essentially a cloud-based interactive coding platform designed primarily for Python and widely used in data science, machine learning, and AI research Wikipedia +1. it does not require any local setup; all the code runs on Google’s cloud servers, meaning users can leverage high-performance hardware without worrying about local environment setup or system limitations 2.
